@@ -138,6 +138,7 @@ nav ul li a:hover {
 .section-title {
   font-size: 28px;
   font-weight: 700;
+  text-align: center;
 }
 .section-pera {
   color: #757575;
@@ -173,6 +174,7 @@ nav ul li a:hover {
 .skill-container{
   display: flex;
   margin-top: 50px;
+  gap: 18px;
 }
 
 .skill{
@@ -190,6 +192,12 @@ padding: 24px;
   font-size: 18px;
 }
 .skill .section-pera{
-  text-align: justify;
+  text-align: left;
+}
+
+/* Resume Section  */
+.resume-contents{
+display: flex;
+
 }
 
